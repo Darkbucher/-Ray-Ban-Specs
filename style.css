@@ -135,7 +135,7 @@ body {
     height: 170px;
     margin-top: 20px;
     margin-bottom: 30px;
-    background-image: url(/IMG/profile.png);
+    background-image: url(profile.png);
     background-size: cover;
     background-position: center;
     border-radius: 10px;
